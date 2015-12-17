@@ -1,0 +1,1 @@
+﻿RegWrite, REG_DWORD, HKEY_LOCAL_MACHINE, Software\Microsoft\Windows\CurrentVersion\Policies\System, DisableTaskMgr, 0
